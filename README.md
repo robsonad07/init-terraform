@@ -1,5 +1,5 @@
 # Primeiros passos com terraform
-# Aluno: Robson do Amaral DIógenes
+# Dupla: Robson do Amaral Diógenes e Francisca Franklane Lima Costa
 
 ## Inicialização do Terraform
 ![Descrição da imagem](imagens/init.png)
